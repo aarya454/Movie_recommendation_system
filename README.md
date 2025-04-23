@@ -13,7 +13,6 @@ A smart movie recommendation system that helps users discover new movies based o
 ## 🛠️ Tech Stack
 
 - **Backend**: Python
-- **Frontend**: HTML, CSS, JavaScript / React (optional)
 - **Machine Learning**: scikit-learn, pandas, NumPy
 - **Database**: Tmdb_5000_movie, Tmdb_5000_credits
 
